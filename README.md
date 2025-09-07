@@ -14,8 +14,8 @@
 - Нагадування з готовими шаблонами та кастомним вибором часу
 - Сортування за датою чи алфавітом
   
-![JustNoteApp Reminder View](justnote1)
-![JustNoteApp Main View](justnote2)
+![JustNoteApp Reminder View](justnote1.jpg)
+![JustNoteApp Main View](justnote2.jpg)
 
 **Технології:** SwiftUI, SwiftData, Combine, UserNotifications  
 **GitHub:** [JustNoteApp](https://github.com/kurog1ri/JustNoteApp)  
@@ -30,7 +30,7 @@
 - Відображення деталей у card-based UI
 - Додавання у вибране
   
-![SearchYourMovies Demo View](movie)
+![SearchYourMovies Demo View](movie.jpg)
 
 **Технології:** SwiftUI, Combine, async/await, Networking  
 **API:** RapidAPI (Movie Search API, Movie Details API)  
@@ -46,8 +46,8 @@
 - Інтерактивна карта з MapKit
 - Можливість пошуку AQI за місцем
 
-![AQI View](aqi1)
-![AQI Alert (when you open an app for the first time)](aqi2)
+![AQI View](aqi1.jpg)
+![AQI Alert (when you open an app for the first time)](aqi2.jpg)
 
 **Технології:** SwiftUI, Combine, MapKit, Networking  
 **API:** Google AQI API  
