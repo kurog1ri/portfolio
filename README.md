@@ -13,6 +13,9 @@
 - Категорії: General, Work, Food, Sport
 - Нагадування з готовими шаблонами та кастомним вибором часу
 - Сортування за датою чи алфавітом
+  
+![JustNoteApp Reminder View](justnote1)
+![JustNoteApp Main View](justnote2)
 
 **Технології:** SwiftUI, SwiftData, Combine, UserNotifications  
 **GitHub:** [JustNoteApp](https://github.com/kurog1ri/JustNoteApp)  
@@ -26,6 +29,8 @@
 - Пошук фільмів
 - Відображення деталей у card-based UI
 - Додавання у вибране
+  
+![SearchYourMovies Demo View](movie)
 
 **Технології:** SwiftUI, Combine, async/await, Networking  
 **API:** RapidAPI (Movie Search API, Movie Details API)  
@@ -40,6 +45,9 @@
 - Відображення даних AQI по геолокації
 - Інтерактивна карта з MapKit
 - Можливість пошуку AQI за місцем
+
+![AQI View](aqi1)
+![AQI Alert (when you open an app for the first time)](aqi2)
 
 **Технології:** SwiftUI, Combine, MapKit, Networking  
 **API:** Google AQI API  
